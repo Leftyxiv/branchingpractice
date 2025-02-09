@@ -1,6 +1,6 @@
 const add = (a,b) => a + b;
 
-const subtract = () => {};
+const subtract = (a, b) => a - b;
 
 const multiply = () => {};
 
